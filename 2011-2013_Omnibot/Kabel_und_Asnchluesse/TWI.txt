@@ -1,0 +1,28 @@
+/*******************************************************************************
+* TWI                                                                          *
+* ===                                                                          *
+*                                                                              *
+*           Pinbelegung         |         Bedeutung                            *
+*    10er Wanne  |    Kabel     | Keplerboard  | TWI-Adapter (und SRF-Kabel)   *
+*  --------------+--------------+--------------+--------------                 *
+*     1          |      1(rot)  | frei         | frei                          *
+*            2   |      2       | frei         | frei                          *
+*                |              |              |                               *
+*     3          |      3       | GND          | GND                           *
+*            4   |      4       | GND          | GND                           *
+*   N            |              |              |                               *
+*   A 5          |      5       | SCL (PD0)    | SCL (in)                      *
+*   S        6   |      6       | SCA (PD1)    | SCA (in)                      *
+*   E            |              |              |                               *
+*     7          |      7       | SCL (Brücke!)| SCL (out)                     *
+*            8   |      8       | SCA (Brücke!)| SCA (out)                     *
+*                |              |              |                               *
+*     9          |      9       | VCC (5V)     | VCC (5V)                      *
+*           10   |     10       | VCC (5V)     | VCC (5V)                      *
+*                |              |              |                               *
+*                                                                              *
+*  Die Bodenplatine wird ueber die die Pins 7 und 8 mit den Signalleitungen    *
+*  des TWI-Busses verbunden. Dazu wurde auf dem Keplerboard die Pins 5 und 7   *
+*  bzw. 6 und 8 manuell mit Lötzinn ueberbrueckt.                              *
+*                                                                              *
+*******************************************************************************/
