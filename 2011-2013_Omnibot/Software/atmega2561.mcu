@@ -1,0 +1,1 @@
+RESET_SEQUENCE= -R DTR -R RTS -R rts -R 200 -R dtr -R 100
