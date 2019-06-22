@@ -6,8 +6,6 @@
 * Datum  : 03.06.14                                                            *
 * Autoren: Leander Herr, Peter Weissig                                         *
 *                                                                              *
-* Für weitere Hilfe und für Vorschläge zur Verbesserung des Programms:         *
-*   peterweissig@hotmail.com                                                   *
 *******************************************************************************/
 
 /*******************************************************************************
