@@ -1,0 +1,10 @@
+# robolib - directories
+lib/
+tmp/
+data/
+
+# robolib - output
+out.hex
+
+# robolib - ini-files are project dependent
+keplerboard.h

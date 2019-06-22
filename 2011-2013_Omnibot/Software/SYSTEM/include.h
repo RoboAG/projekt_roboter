@@ -32,6 +32,7 @@
 // Meine Eigenen Dateien
 // 2014 10 25 - peter: veraltet siehe "keplerboard.ini"
 //#include "system/source/system.h"
+#include "keplerboard.h"
 
 #include "IO/Datakom.h"//Datenaustausch
 
