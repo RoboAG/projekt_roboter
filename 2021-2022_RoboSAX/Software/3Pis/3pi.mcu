@@ -1,0 +1,3 @@
+# Comports
+#COMPORT_AVRDUDE=/dev/ttyACM0
+#COMPORT_DATA=/dev/ttyUSB0
