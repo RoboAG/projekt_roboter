@@ -1,13 +1,16 @@
 # RoboSAX 2017-2018
 
+
 ### Team
 + Janek Neugebauer
 + Leonhard Nagel
 + Christoph Männel
 + Felix Krüger
 
+
 ### Aufgabenstellung
 Siehe [RoboSAX Webseite](https://robosax.de/2018).
+
 
 ### Roboter
 ![Bild des Roboters](Bilder/roboter_auf_testfeld.jpg)
