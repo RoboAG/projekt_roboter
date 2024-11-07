@@ -7,7 +7,7 @@ Kurz vor dem Wettbewerb haben wir uns dann aber umentschieden und auf die vertra
 
 
 ### Aufgabenstellung
-Siehe [RoboSAX Webseite](https://robosax.de/2019).
+[![Aufgabe des RoboSAX 2019](Bilder/rs2019_spielfeld.jpg)](https://robosax.de/2019)
 
 
 ### Wettbewerbstag

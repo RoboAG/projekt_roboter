@@ -9,7 +9,7 @@
 
 
 ### Aufgabenstellung
-Siehe [RoboSAX Webseite](https://robosax.de/2018).
+[![Aufgabe des RoboSAX 2018](Bilder/rs2018_spielfeld.png)](https://robosax.de/2018)
 
 
 ### Roboter
